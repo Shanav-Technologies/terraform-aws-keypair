@@ -56,7 +56,7 @@ This project is licensed under the **MIT** License - see the [LICENSE](https://g
 
 | Name | Version |
 |------|---------|
-| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.5.5 |
+| <a name="requirement_terraform"></a> [terraform](#requirement\_terraform) | >= 1.8.5 |
 | <a name="requirement_aws"></a> [aws](#requirement\_aws) | >= 5.50.0 |
 | <a name="requirement_tls"></a> [tls](#requirement\_tls) | >= 4.0.4 |
 
