@@ -6,7 +6,7 @@ variable "name" {
 
 variable "repository" {
   type        = string
-  default     = "https://github.com/shanav-tech/terraform-aws-keypair?ref=v1.0.0"
+  default     = "https://github.com/Shanav-Technologies/terraform-aws-keypair?ref=v1.0.0"
   description = "Terraform current module repo"
 }
 
@@ -31,8 +31,8 @@ variable "attributes" {
 
 variable "managedby" {
   type        = string
-  default     = "shanav-tech"
-  description = "ManagedBy, eg 'shanav-tech'."
+  default     = "Shanav-Technologies"
+  description = "ManagedBy, eg 'Shanav-Technologies'."
 }
 
 #Module      : KEY PAIR module variables.
